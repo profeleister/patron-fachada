@@ -10,5 +10,4 @@ La estructura del patrón fachada se compone de los siguientes elementos:
 - **Subsistema**: Implementa las funcionalidades del subsistema.
 - **Cliente**: Utiliza la fachada para interactuar con el subsistema.
 
-
 Para extender sobre los patrones de diseños, se puede consultar el siguiente enlace: [Patrones de diseño](https://refactoring.guru/es/design-patterns).
