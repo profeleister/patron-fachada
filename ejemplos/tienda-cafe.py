@@ -13,7 +13,7 @@ class Cafetera:
         print("Mezclando agua y café...")
 
 
-# Uso del sistema
+# Aplicación
 hervidor = Hervidor()
 molino = Molino()
 cafetera = Cafetera()
